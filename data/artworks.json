@@ -1,0 +1,164 @@
+{
+  "artworks": [
+    {
+      "id": 1,
+      "title": "وحدة الروبوت",
+      "artist": "AI Neuralis",
+      "mood": "حزين",
+      "category": "رقمي",
+      "description": "روبوت يجلس وحيدًا في غرفة فارغة، ينظر من نافذة إلى مدينة بلا بشر. تعبير عن العزلة في عصر التكنولوجيا.",
+      "imageUrl": "images/art1-robot.jpg",
+      "year": 2024
+    },
+    {
+      "id": 2,
+      "title": "غابة الضوء",
+      "artist": "Lumina AI",
+      "mood": "هادئ",
+      "category": "طبيعة",
+      "description": "أشجار تنبعث منها جزيئات ضوئية في ليلة مقمرة، وكأن الغابة تتنفس. مشهد يبعث على السكينة والتأمل.",
+      "imageUrl": "images/art2-forest.jpg",
+      "year": 2024
+    },
+    {
+      "id": 3,
+      "title": "ثورة الألوان",
+      "artist": "ChromAI",
+      "mood": "سعيد",
+      "category": "تجريدي",
+      "description": "انفجار من الألوان الزاهية تعبر عن الحرية والفرح بلا قيود. عمل مليء بالطاقة الإيجابية.",
+      "imageUrl": "images/art3-colors.jpg",
+      "year": 2024
+    },
+    {
+      "id": 4,
+      "title": "البعد المنسي",
+      "artist": "Deep Void",
+      "mood": "غامض",
+      "category": "خيال علمي",
+      "description": "بوابة إلى بعد آخر، حيث الزمن يتجمد والأشكال تذوب في بعضها. لغز بصري يأسر الخيال.",
+      "imageUrl": "images/art4-portal.jpg",
+      "year": 2024
+    },
+    {
+      "id": 5,
+      "title": "أمطار صامتة",
+      "artist": "Rain AI",
+      "mood": "هادئ",
+      "category": "مناظر طبيعية",
+      "description": "مطر يتساقط بهدوء على مدينة قديمة، كل قطرة تحمل ذكرى. لحظة تأمل بين الماضي والحاضر.",
+      "imageUrl": "images/art5-rain.jpg",
+      "year": 2024
+    },
+    {
+      "id": 6,
+      "title": "صراع داخلي",
+      "artist": "Dual Core",
+      "mood": "حزين",
+      "category": "تعبيري",
+      "description": "وجه منقسم بين الابتسامة والدموع، يعبر عن صراع الروح بين الألم والأمل.",
+      "imageUrl": "images/art6-dual.jpg",
+      "year": 2024
+    },
+    {
+      "id": 7,
+      "title": "مدينة الغيوم",
+      "artist": "AI Skies",
+      "mood": "سعيد",
+      "category": "خيال علمي",
+      "description": "مدينة مستقبلية تطفو بين السحب، حيث تعيش البشرية في سلام ووئام. architecture utopian مليء بالأمل.",
+      "imageUrl": "images/city.jpg",
+      "year": 2024
+    },
+    {
+      "id": 8,
+      "title": "خريف الوحدة",
+      "artist": "AI Seasons",
+      "mood": "حزين",
+      "category": "طبيعة",
+      "description": "رجل عجوز يجلس وحيدًا في حديقة الخريف، تتساقط حوله الأوراق الذهبية. لحظة صامتة تعبر عن الفقد والذاكرة.",
+      "imageUrl": "images/oldman.jpg",
+      "year": 2024
+    },
+    {
+      "id": 9,
+      "title": "أعماق الأطلال",
+      "artist": "AI Depths",
+      "mood": "غامض",
+      "category": "خيال علمي",
+      "description": "أطلال قديمة تحت الماء، تخترقها أشعة الشمس بتكتم. هدوء مخيف وغموض يلف المكان.",
+      "imageUrl": "images/new.jpg",
+      "year": 2024
+    },
+    {
+      "id": 10,
+      "title": "حديقة الزن",
+      "artist": "AI Serenity",
+      "mood": "هادئ",
+      "category": "طبيعة",
+      "description": "حديقة يابانية هادئة مع أزهار الكرز المتساقطة وبركة ماء صافية. مكان للتأمل والسلام الداخلي.",
+      "imageUrl": "images/1.jpg",
+      "year": 2024
+    },
+    {
+      "id": 11,
+      "title": "انفجار النيون",
+      "artist": "AI Neon",
+      "mood": "سعيد",
+      "category": "تجريدي",
+      "description": "انفجار من الألوان النيونية والأشكال الهندسية يعبر عن الطاقة المطلقة والفرح الجامح.",
+      "imageUrl": "images/2.jpg",
+      "year": 2024
+    },
+    {
+      "id": 12,
+      "title": "رائد الفضاء الوحيد",
+      "artist": "AI Cosmos",
+      "mood": "حزين",
+      "category": "خيال علمي",
+      "description": "رائد فضاء يجلس على كوكب بعيد ويتأمل الأرض في السماء. شعور بالحنين والعزلة الكونية.",
+      "imageUrl": "images/3.jpg",
+      "year": 2024
+    },
+    {
+      "id": 13,
+      "title": "غابة الضباب",
+      "artist": "AI Mysts",
+      "mood": "غامض",
+      "category": "طبيعة",
+      "description": "غابة مغطاة بالضباب مع أضواء صغيرة تطفو في الهواء. جو سحري وغامض كأنه من عالم آخر.",
+      "imageUrl": "images/4.jpg",
+      "year": 2024
+    },
+    {
+      "id": 14,
+      "title": "ندى الصباح",
+      "artist": "AI Dawn",
+      "mood": "هادئ",
+      "category": "طبيعة",
+      "description": "قطرات الندى على أوراق خضراء مع ضوء شمس ناعم. تفاصيل دقيقة تعكس جمال الطبيعة البسيط.",
+      "imageUrl": "images/5.jpg",
+      "year": 2024
+    },
+    {
+      "id": 15,
+      "title": "احتفال الألوان",
+      "artist": "AI Festive",
+      "mood": "سعيد",
+      "category": "تعبيري",
+      "description": "احتفال كبير مع قصاصات ملونة ووجوه مبتسمة. طاقة إيجابية وفرح خالص.",
+      "imageUrl": "images/6.jpg",
+      "year": 2024
+    },
+    {
+      "id": 16,
+      "title": "مكتبة الأشباح",
+      "artist": "AI Ghosts",
+      "mood": "غامض",
+      "category": "خيال علمي",
+      "description": "مكتبة مهجورة حيث الكتب تطفو في الهواء وغبار الضوء يملأ المكان. سكون مخيف وجمال غريب.",
+      "imageUrl": "images/7.jpg",
+      "year": 2024
+    }
+  ]
+}
